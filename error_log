@@ -1,0 +1,70 @@
+[28-Feb-2021 08:46:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/konacafe/beta.konacafebd.com/erp/includes/connect.php on line 26
+[28-Feb-2021 08:46:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/konacafe/beta.konacafebd.com/erp/includes/connect.php on line 32
+[28-Feb-2021 14:46:58 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/konacafe/beta.konacafebd.com/erp/includes/connect.php:39
+Stack trace:
+#0 /home/konacafe/beta.konacafebd.com/erp/includes/easyfunctions.php(6): require()
+#1 /home/konacafe/beta.konacafebd.com/index.php(5): require('/home/konacafe/...')
+#2 {main}
+  thrown in /home/konacafe/beta.konacafebd.com/erp/includes/connect.php on line 39
+[02-Mar-2021 04:16:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[02-Mar-2021 04:16:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[02-Mar-2021 12:23:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[02-Mar-2021 12:23:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[02-Mar-2021 19:20:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[02-Mar-2021 19:20:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[02-Mar-2021 20:40:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[02-Mar-2021 20:40:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[03-Mar-2021 18:45:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[03-Mar-2021 18:45:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[04-Mar-2021 14:06:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[04-Mar-2021 14:06:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[04-Mar-2021 14:56:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[04-Mar-2021 14:56:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[04-Mar-2021 19:21:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[04-Mar-2021 19:21:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[05-Mar-2021 08:26:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[05-Mar-2021 08:26:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[08-Mar-2021 08:25:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[08-Mar-2021 08:25:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[08-Mar-2021 08:31:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[08-Mar-2021 08:31:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[09-Mar-2021 08:26:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[09-Mar-2021 08:26:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[09-Mar-2021 08:28:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 8
+[09-Mar-2021 08:28:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[09-Mar-2021 08:29:47 UTC] PHP Fatal error:  Cannot use [] for reading in /home/konacafe/public_html/my-order.php on line 3
+[09-Mar-2021 08:29:53 UTC] PHP Fatal error:  Cannot use [] for reading in /home/konacafe/public_html/my-order.php on line 3
+[09-Mar-2021 08:30:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 10
+[09-Mar-2021 08:30:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[09-Mar-2021 08:31:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 10
+[09-Mar-2021 08:31:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[09-Mar-2021 08:33:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 10
+[09-Mar-2021 08:33:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[09-Mar-2021 08:33:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 10
+[09-Mar-2021 08:33:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[10-Mar-2021 14:13:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[10-Mar-2021 14:13:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[12-Mar-2021 14:44:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[12-Mar-2021 14:44:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[12-Mar-2021 19:19:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[12-Mar-2021 19:19:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[12-Mar-2021 20:20:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[12-Mar-2021 20:20:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[14-Mar-2021 17:32:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[14-Mar-2021 17:32:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[16-Mar-2021 00:20:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[16-Mar-2021 00:20:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[16-Mar-2021 08:29:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[16-Mar-2021 08:29:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[16-Mar-2021 13:07:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[16-Mar-2021 13:07:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[16-Mar-2021 13:14:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[16-Mar-2021 13:14:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[17-Mar-2021 08:39:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[17-Mar-2021 08:39:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[17-Mar-2021 14:00:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[17-Mar-2021 14:00:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[17-Mar-2021 14:38:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[17-Mar-2021 14:38:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
+[17-Mar-2021 17:15:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/my-order.php on line 9
+[17-Mar-2021 17:15:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/konacafe/public_html/erp/includes/easyfunctions.php on line 4
